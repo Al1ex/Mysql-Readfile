@@ -1,0 +1,2 @@
+C:/windows/win.ini
+C:/Windows/PFRO.log
